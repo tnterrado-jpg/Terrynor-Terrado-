@@ -44,7 +44,7 @@ class BankAccount {
 
     public class EncapsulationAndAccessModifiers {
     public static void main(String[] args) {
-        BankAccount account = new BankAccount("Jimwell Daan", 1000.00);
+        BankAccount account = new BankAccount("Terrynor Terrado", 1000.00);
 
         account.displayAccountInformation();
         System.out.println();
